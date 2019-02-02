@@ -7,6 +7,6 @@ To run:
 - Must have Node.js installed
 Check out this code
 
-npm init -y
-npm install electron -D
-
+- npm init -y
+- npm install electron -D
+- npm start
