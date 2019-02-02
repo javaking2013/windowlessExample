@@ -2,9 +2,9 @@
   "name": "windowlessExample",
   "version": "1.0.0",
   "description": "This is a basic example on how to create a windowless electron desktop application",
-  "main": "index.js",
+  "main": "src/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
